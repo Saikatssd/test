@@ -1,5 +1,0 @@
-{{#user}}
-Name: Saikat Sundar Das
-Skills: HTML, CSS, JS, Reactjs,Nodejs,TailwindCSS,MongoDB
-Email: saikatsundardas@gmail.com
-{{/user}}
